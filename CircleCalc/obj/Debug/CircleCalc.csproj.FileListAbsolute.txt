@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\obj\Debug\CircleCalc.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\obj\Debug\CircleCalc.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\bin\Debug\CircleCalc.exe.config
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\bin\Debug\CircleCalc.exe
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\bin\Debug\CircleCalc.pdb
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\obj\Debug\CircleCalc.exe
+C:\Users\jacob\source\repos\CircleCalc\CircleCalc\obj\Debug\CircleCalc.pdb
